@@ -13,10 +13,13 @@ scalarFEMPML.m
 ## FDTD
 2D_FDTD_PML.m
 
+For more details, see `2D_FDTD_with_PML_based_on_Matlab.pdf`.
+
 ## FETD 
 scalarFETD.m
 
-<img src="./step150Ez.png" alt="FETD" width="500"/>
+<img src="./step550Ez.png" alt="Ez at time step 550 FETD" width="500"/>
+
 
 ## hybrid FDTD-FETD
 hybrid_FETD_FDTD.m
@@ -28,7 +31,4 @@ hybrid_FETD_FDTD.m
 ## DGTD
 scalarDGTD.m
 
-<img src="./step550Ez.png" alt="Ez at time step 550 DGTD" width="500"/>
-
-
-
+<img src="./step150Ez.png" alt="Ez at time step 550 DGTD" width="500"/>
